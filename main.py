@@ -19,7 +19,7 @@ def get_update():
     base_url = "https://sgp.finderbit.com.br"  # Ajuste conforme necessário
     
     return {
-        "version": "1.0.1",  # AQUI: versão nova
+        "version": "1.0.2",  # AQUI: versão nova
         "notes": "Atualização automática funcionando.",
         "pub_date": "2025-01-01T00:00:00Z",
 
